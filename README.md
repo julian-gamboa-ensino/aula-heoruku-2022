@@ -1,1 +1,1 @@
-# aula-heoruku-2022
+# sudo snap install --classic heroku
